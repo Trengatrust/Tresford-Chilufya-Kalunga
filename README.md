@@ -1,17 +1,17 @@
 # Tresford-Chilufya-Kalunga
-<!-- PROFILE HEADER -->
+<!-- MY BIO -->
 <h1 align="center">👋 Hi, I'm <Tresford Chilufya Kalunga></h1>
 <h3 align="center">🚀 Passionate Data Scientist | Frontend Developer | Software Engineering Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/<TrenfaTrust>">
-    <img src="https://img.shields.io/github/followers/<your-username>?label=Follow%20Me&style=for-the-badge" alt="GitHub Followers" />
+  <a href="https://github.com/<Trengatrust>">
+    <img src="https://img.shields.io/github/followers/<Trengatrust>?label=Follow%20Me&style=for-the-badge" alt="GitHub Followers" />
   </a>
   <a href="https://www.linkedin.com/in/<tresford-kalunga-9926a230b/>">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:<kalungatresford7@gmail.com>">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-kalungatresford7@gmail.com%20Me-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
 
